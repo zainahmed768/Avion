@@ -1,0 +1,43 @@
+.contact-us .con {
+    padding: 30px;
+    border: 1px solid #777575;
+}
+.contact-us h2 {
+    color: #fc5112;
+    font-size: 48px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-align: center;
+}
+.contact-us p {
+    font-family: 'Montserrat';
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+}
+.contact-us {
+    padding: 80px 0px;
+    padding-top: 40px;
+}
+.contact-us button.form-control {
+    background: #fc5112;
+    border-radius: 0px;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px 0px;
+    border: 1px solid;
+    transition: all 0.4s ease-in-out;
+}
+.contact-us button.form-control:hover {
+    outline: 1px solid #fc5112;
+}
+.contact-us .form-control {
+    border-radius: 0px;
+    border: 1px solid #707070;
+}
+.contact-us label {
+    color: #000;
+    font-family: 'Montserrat';
+}
