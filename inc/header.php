@@ -28,15 +28,15 @@
                             <ul>
                                 <li class="user-admin"><i class="fa fa-user-o" aria-hidden="true"></i>
                                     <div class="name-wrapper">
-                                        <a href="#"><span class="small">Sign In</span></a>
-                                        <a href="#"><span class="head">Account</span></a>
+                                        <a href="login.php"><span class="small">Sign In</span></a>
+                                        <a href="Sign-up.php"><span class="head">Account</span></a>
                                     </div>
                                 </li>
-                                <li class="wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i><span class="count">0</span></li>
-                                <li class="cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span class="count">0</span>
+                                <li class="wishlist"> <a href="profile.php#pills-contact-tab"><i class="fa fa-heart-o" aria-hidden="true"></i><span class="count">0</span></a></li>
+                                <li class="cart"> <a href="checkout.php"> <i class="fa fa-shopping-cart" aria-hidden="true"></i></a><span class="count">0</span>
                                     <div class="name-wrapper">
-                                        <a href="#"><span class="small">Sign In</span></a>
-                                        <a href="#"><span class="head">Account</span></a>
+                                        <a href="checkout.php"><span class="small">Total</span></a>
+                                        <a href="checkout.php"><span class="head">$0.00</span></a>
                                     </div>
                                 </li>
 
@@ -865,8 +865,8 @@
                     <div class="col-lg-6 my-auto">
                         <div class="menu-item-wrapper">
                             <ul>
-                                <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Stamp catalogue <i class="fa fa-angle-down" aria-hidden="true"></i></a></li>
+                                <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+                                <li class="nav-item"><a href="categories.php" class="nav-link">Stamp catalogue <i class="fa fa-angle-down" aria-hidden="true"></i></a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Information <i class="fa fa-angle-down" aria-hidden="true"></i></a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Features <i class="fa fa-angle-down" aria-hidden="true"></i></a></li>
                                 <li class="nav-item"><a href="contact-us.php" class="nav-link">Contact Us</a></li>
@@ -951,15 +951,15 @@
             <ul class="cart-icons">
                 <li class="user-admin"><i class="fa fa-user-o" aria-hidden="true"></i>
                     <div class="name-wrapper">
-                        <a href="#"><span class="small">Sign In</span></a>
-                        <a href="#"><span class="head">Account</span></a>
+                        <a href="login.php"><span class="small">Sign In</span></a>
+                        <a href="Sign-up.php"><span class="head">Account</span></a>
                     </div>
                 </li>
                 <li class="wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i><span class="count">0</span></li>
                 <li class="cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span class="count">0</span>
                     <div class="name-wrapper">
-                        <a href="#"><span class="small">Sign In</span></a>
-                        <a href="#"><span class="head">Account</span></a>
+                        <a href="checkout.php"><span class="small">Total</span></a>
+                        <a href="profile.php"><span class="head">$0.00</span></a>
                     </div>
                 </li>
             </ul>

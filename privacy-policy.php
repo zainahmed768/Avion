@@ -9,7 +9,7 @@
             <div class="col-lg-12">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Privacy Policy</li>
                     </ol>
                 </nav>
@@ -26,7 +26,7 @@
                 <div class="content-wrapper">
                     <h5>Privacy Policy</h5>
 
-                    <div class="question-and-answer-wrapper">
+                    <div class="question-and-answer-wrapper ss">
                         <div class="question-wrapper">
                             <h6>What is Lorem Ipsum?</h6>
                         </div>

@@ -1,21 +1,44 @@
 .about {
-    padding-bottom: 60px;
+  padding-bottom: 60px;
 }
 .about .row {
-    border: 1px solid #777575;
-    padding: 40px;
+  border: 1px solid #777575;
+  padding: 40px;
 }
 .about h2 {
-    font-family: 'Montserrat';
-    color: #fc5112;
-    font-size: 45px;
-    margin-bottom: 20px;
+  font-family: "Montserrat";
+  color: #fc5112;
+  font-size: 45px;
+  margin-bottom: 20px;
 }
 .about p {
-    color: #000;
-    font-family: 'Montserrat';
-    font-weight: 400;
+  color: #000;
+  font-family: "Montserrat";
+  font-weight: 400;
 }
 .about p.sans {
-    font-family: 'DM Sans';
+  font-family: "DM Sans";
+}
+/* responsive starts here */
+@media (max-width: 480px) {
+  .about .row {
+    padding: 22px;
+    margin: 10px;
+  }
+}
+@media (max-width: 414px) {
+  .about h2 {
+    font-size: 38px;
+  }
+  .about p {
+    font-size: 14px;
+  }
+}
+@media (max-width: 360px) {
+  .about figure {
+    margin-top: 20px;
+  }
+  .about h2 {
+    font-size: 34px;
+  }
 }

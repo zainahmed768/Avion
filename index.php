@@ -13,7 +13,7 @@
                         <li>Serving Philately for over 70 years</li>
                     </ul>
                     <div class="button-wrapper">
-                        <button class="btn">SEARCH BY COUNTRY</button>
+                        <button onclick="location.href='categories.php'" class="btn">SEARCH BY COUNTRY</button>
                         <button class="btn">SEARCH BY COUNTRY</button>
                     </div>
                 </div>
@@ -1909,6 +1909,7 @@
             </div>
         </div>
         <div class="row">
+            
             <div class="col-lg-4">
                 <div class="product-card-wrapper">
 
@@ -1916,7 +1917,7 @@
                         <div class="discount-wrapper">
                             <span>11%</span>
                         </div>
-                        <a href="#">
+                        <a href="Item-details.php">
                             <figure>
                                 <img src="img/latest1.png" class="img-fluid" alt="">
                             </figure>
@@ -1952,7 +1953,7 @@
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
-                                <a href="#">
+                                <a href="Item-details.php">
                                     <img src="img/shopping-cart.svg" alt="">
                                 </a>
                             </div>

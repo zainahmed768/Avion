@@ -21,8 +21,8 @@
                         <h4>Navigation</h4>
                         <ul>
                             <li><a href="index.php">HOME</a></li>
-                            <li><a href="#">SEARCH BY THEME</a></li>
-                            <li><a href="#">SEARCH BY COUNTRY</a></li>
+                            <li><a href="categories.php">SEARCH BY THEME</a></li>
+                            <li><a href="categories.php">SEARCH BY COUNTRY</a></li>
                         </ul>
                     </div>
                 </div>
@@ -33,9 +33,9 @@
                         <h4>Our Services</h4>
                         <ul>
                             <li><a href="about.php">ABOUT AVION</a></li>
-                            <li><a href="#">FAQS</a></li>
-                            <li><a href="#">PAYMENT </a></li>
-                            <li><a href="#">METHODS </a></li>
+                            <li><a href="faq.php">FAQS</a></li>
+                            <li><a href="checkout.php">PAYMENT </a></li>
+                            <li><a href="checkout.php">METHODS </a></li>
                             <li><a href="#">LINKS </a></li>
                         </ul>
                     </div>
@@ -49,7 +49,7 @@
                             <li><a href="privacy-policy.php">PRIVACY POLICY</a></li>
                             <li><a href="Terms-and-Conditions.php">TERMS AND CONDITIONS</a></li>
                             <li><a href="return-policy.php">RETURNS POLICY </a></li>
-                            <li><a href="#">FAQS </a></li>
+                            <li><a href="faq.php">FAQS </a></li>
                         </ul>
                     </div>
                 </div>
