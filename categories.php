@@ -103,7 +103,7 @@
                                     <h4 class="product-name">Abkhazia 1994 Groucho Marx & John Lennon
                                         Commemoration m/sheet </h4>
                                     <h6>Our Ref: <span class="ref-no">67451</span></h6>
-                                    <h5 class="price">$629.99</h5>
+                                    <h5 class="price">£629.99</h5>
                                     <div class="number">
                                         <span class="plus">+</span>
                                         <input type="text" value="01">
@@ -126,7 +126,7 @@
                                     <h4 class="product-name">Abkhazia 1994 Groucho Marx & John Lennon
                                         Commemoration m/sheet </h4>
                                     <h6>Our Ref: <span class="ref-no">67451</span></h6>
-                                    <h5 class="price">$629.99</h5>
+                                    <h5 class="price">£629.99</h5>
                                     <div class="number">
                                         <span class="plus">+</span>
                                         <input type="text" value="01">
@@ -149,7 +149,7 @@
                                     <h4 class="product-name">Abkhazia 1994 Groucho Marx & John Lennon
                                         Commemoration m/sheet </h4>
                                     <h6>Our Ref: <span class="ref-no">67451</span></h6>
-                                    <h5 class="price">$629.99</h5>
+                                    <h5 class="price">£629.99</h5>
                                     <div class="number">
                                         <span class="plus">+</span>
                                         <input type="text" value="01">
@@ -172,7 +172,7 @@
                                     <h4 class="product-name">Abkhazia 1994 Groucho Marx & John Lennon
                                         Commemoration m/sheet </h4>
                                     <h6>Our Ref: <span class="ref-no">67451</span></h6>
-                                    <h5 class="price">$629.99</h5>
+                                    <h5 class="price">£629.99</h5>
                                     <div class="number">
                                         <span class="plus">+</span>
                                         <input type="text" value="01">

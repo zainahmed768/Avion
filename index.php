@@ -1962,8 +1962,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2009,8 +2009,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2055,8 +2055,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2101,8 +2101,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2147,8 +2147,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2193,8 +2193,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2344,8 +2344,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2390,8 +2390,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2436,8 +2436,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2482,8 +2482,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2528,8 +2528,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">
@@ -2574,8 +2574,8 @@
                         </div>
                         <div class="price-and-add-to-cart-wrapper">
                             <div class="price-wrapper">
-                                <strike>$699.99</strike>
-                                <h4 class="price">$629.99</h4>
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
                                 <p class="delievry-time">2-day delivery</p>
                             </div>
                             <div class="cart-icon">

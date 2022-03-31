@@ -43,7 +43,7 @@
                                         <input type="text" value="01">
                                         <span class="minus">-</span>
                                     </div>
-                                    <h6>Total : <span class="total-price">$1052.00</span></h6>
+                                    <h6>Total : <span class="total-price">£1052.00</span></h6>
                                 </div>
                                 <button><i class="fa fa-close"></i></button>
                             </div>
@@ -64,7 +64,7 @@
                                         <input type="text" value="01">
                                         <span class="minus">-</span>
                                     </div>
-                                    <h6>Total : <span class="total-price">$1052.00</span></h6>
+                                    <h6>Total : <span class="total-price">£1052.00</span></h6>
                                 </div>
                                 <button><i class="fa fa-close"></i></button>
                             </div>
@@ -74,14 +74,14 @@
                         <div class="order-summry-wrapper">
                             <div class="summary-content-wrapper">
                                 <h4>Order Summary</h4>
-                                <h5>Shipping : $250</h5>
-                                <h5>Sub Total : $3025</h5>
+                                <h5>Shipping : £250</h5>
+                                <h5>Sub Total : £3025</h5>
                                 <p class="mb-4">Taxes and discounts will be calculated at checkout</p>
                                 <h3>Other Delivery options available for you</h3>
                                 <div class="delievery-btn-wrapper mb-4">
 
-                                    <button class="btn">STANDARD DELIVERY - $1.00 </button>
-                                    <button class="btn"> UK REGISTERED DELIVERY - $1.00</button>
+                                    <button class="btn">STANDARD DELIVERY - £1.00 </button>
+                                    <button class="btn"> UK REGISTERED DELIVERY - £1.00</button>
 
                                 </div>
                                 <button onclick="location.href='Item-details.php'" class="btn up-btn">UPDATE</button>

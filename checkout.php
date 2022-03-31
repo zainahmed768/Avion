@@ -268,7 +268,7 @@
                                     </div>
                                 </div>
                                 <div class="product-price">
-                                    <h4 class="price">$539.00</h4>
+                                    <h4 class="price">£539.00</h4>
                                 </div>
                             </div>
                             <div class="products">
@@ -285,7 +285,7 @@
                                     </div>
                                 </div>
                                 <div class="product-price">
-                                    <h4 class="price">$539.00</h4>
+                                    <h4 class="price">£539.00</h4>
                                 </div>
                             </div>
                             <div class="products">
@@ -302,7 +302,7 @@
                                     </div>
                                 </div>
                                 <div class="product-price">
-                                    <h4 class="price">$539.00</h4>
+                                    <h4 class="price">£539.00</h4>
                                 </div>
                             </div>
                             <div class="products">
@@ -319,7 +319,7 @@
                                     </div>
                                 </div>
                                 <div class="product-price">
-                                    <h4 class="price">$539.00</h4>
+                                    <h4 class="price">£539.00</h4>
                                 </div>
                             </div>
                             <div class="products">
@@ -336,7 +336,7 @@
                                     </div>
                                 </div>
                                 <div class="product-price">
-                                    <h4 class="price">$539.00</h4>
+                                    <h4 class="price">£539.00</h4>
                                 </div>
                             </div>
                             <div class="products">
@@ -353,28 +353,28 @@
                                     </div>
                                 </div>
                                 <div class="product-price">
-                                    <h4 class="price">$539.00 </h4>
+                                    <h4 class="price">£539.00 </h4>
                                 </div>
                             </div>
                         </div>
                         <div class="pricing-details">
                             <div class="item-total">
                                 <h4 class="property">Item Total :</h4>
-                                <h4 class="value">$50</h4>
+                                <h4 class="value">£50</h4>
                             </div>
                             <div class="item-total">
                                 <h4 class="property">Shipment & Delivery</h4>
-                                <h4 class="value">$0</h4>
+                                <h4 class="value">£0</h4>
                             </div>
                             <div class="item-total">
                                 <h4 class="property">Promo Applied :</h4>
-                                <h4 class="value">-$5</h4>
+                                <h4 class="value">-£5</h4>
                             </div>
                         </div>
 
                         <div class="order-total">
                             <h3 class="property">Order Total</h3>
-                            <h3 class="value">$3025.00</h3>
+                            <h3 class="value">£3025.00</h3>
                         </div>
                     </div>
                 </div>

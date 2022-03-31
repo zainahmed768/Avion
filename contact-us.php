@@ -31,7 +31,7 @@
                 <div class="contact-form-wrapper">
                     <div class="contact-form-heading-wrapper">
                         <h2>CONTACT US FORM </h2>
-                        <p>Your email address will not be published.required fields are marked *</p>
+                        <p>Your email address will not be published.required fields are marked </p>
                     </div>
                     <form action="">
                         <div class="form-group row">
@@ -46,7 +46,7 @@
                         </div>
                         <div class="form-group row">
                             <div class="col-lg-6">
-                                <label for="Email">Email </label>
+                                <label for="Email">Email</label>
                                 <input type="email" class="form-control">
                             </div>
                             <div class="col-lg-6">

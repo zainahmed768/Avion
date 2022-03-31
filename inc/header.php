@@ -867,7 +867,16 @@
                             <ul>
                                 <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
                                 <li class="nav-item"><a href="categories.php" class="nav-link">Stamp catalogue <i class="fa fa-angle-down" aria-hidden="true"></i></a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Information <i class="fa fa-angle-down" aria-hidden="true"></i></a></li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Information
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="about.php">About</a>
+                                        <a class="dropdown-item" href="faq.php">FAQs</a>
+                                    </div>
+                                </li>
+                                <!-- <li class="nav-item"><a href="#" class="nav-link">Information <i class="fa fa-angle-down" aria-hidden="true"></i></a></li> -->
                                 <li class="nav-item"><a href="#" class="nav-link">Features <i class="fa fa-angle-down" aria-hidden="true"></i></a></li>
                                 <li class="nav-item"><a href="contact-us.php" class="nav-link">Contact Us</a></li>
                             </ul>

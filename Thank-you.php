@@ -56,16 +56,16 @@
                             <h5>Payment details</h5>
                         </div>
                         <ul class="payment-total">
-                            <li class="item-total"><span class="property">Item Total :</span><span class="value">$50</span></li>
-                            <li class="delivery"><span class="property">Shipment & Delivery</span><span class="value">$0</span>
+                            <li class="item-total"><span class="property">Item Total :</span><span class="value">£50</span></li>
+                            <li class="delivery"><span class="property">Shipment & Delivery</span><span class="value">£0</span>
                             </li>
-                            <li class="item-total"><span class="property">Promo Applied :</span><span class="value">-$5</span>
+                            <li class="item-total"><span class="property">Promo Applied :</span><span class="value">-£5</span>
                             </li>
                         </ul>
                     </div>
                     <div class="order-total">
                         <h3 class="property">Order Total</h3>
-                        <h3 class="value">$45</h3>
+                        <h3 class="value">£45</h3>
                     </div>
                 </div>
                 <a class="btn" href="index.php" type="button">Continue Shopping</a>
