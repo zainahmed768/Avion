@@ -32,9 +32,20 @@
 <!-- explore section starts here -->
 <section class="explore">
     <div class="container">
+
         <div class="row">
             <div class="col-lg-12">
                 <div class="content-wrapper text-center">
+                    <div class="welcome">
+                        <h3>Welcome to Avion Stamps</h3>
+                        <h5>Big Enough To Cope And Small Enough To Care</h5>
+                        <div class="welcome-info">
+                            <p>We have one of the largest stocks of stamps in Europe</p>
+                            <p>Family business established in 1948</p>
+                            <p>Serving Philately for over 70 years</p>
+                            <p>A generous discount scheme to help collectors at every level</p>
+                        </div>
+                    </div>
                     <h3>EXPLORE</h3>
                     <h2>LATEST ADDITION</h2>
                 </div>
@@ -1891,6 +1902,9 @@
                             </div>
                         </div>
                     </div>
+                    <div class="welcome text-center">
+                        <h6>Ready to buy? - Explore our extensive catalogue</h6>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1909,7 +1923,7 @@
             </div>
         </div>
         <div class="row">
-            
+
             <div class="col-lg-4">
                 <div class="product-card-wrapper">
 
@@ -2198,6 +2212,10 @@
 <!-- latest avion sec ends here -->
 <!-- CTA section starts here -->
 <section class="cta-sec">
+    <div class="latest-avion  text-center">
+        <h3>AVION STAMPS </h3>
+        <h4>Recent Addition</h4>
+    </div>
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-3">
@@ -2250,12 +2268,41 @@
             </div>
         </div>
     </div>
+    <div class="container" style="background-color: transparent; text-align: left; padding: 22px 0;">
+        <div class="about-cta">
+            <h6>Stamp Dealer</h6>
+            <p>Largest Thematic Stamp Dealer in Europe </p>
+        </div>
+        <div class="about-cta">
+            <h6>Stock </h6>
+            <p>10,000+ Stock items with Generous Discounts </p>
+        </div>
+        <div class="about-cta">
+            <h6>Secure </h6>
+            <p>100% Safe & Secure Shopping Experience </p>
+        </div>
+        <div class="about-cta">
+            <h6>Philately </h6>
+            <p>Over 70 Years’ Experience in Philately </p>
+        </div>
+        <div class="about-cta">
+            <p>Whether you are a complete novice looking for advice on how to start or a serious veteran
+                collector hoping to improve upon your gold medal exhibit, we would be happy to offer you our
+                free advice gained from a lifetime in philately. We have extensive knowledge of specialised items such as Proofs,
+                Missing colours, Specimens, Major errors and right across to the other side of the philatelic spectrum, with Fakes,
+                Forgeries and Fantasies.</p>
+        </div>
+    </div>
 </section>
 <!-- CTA section ends here -->
 <!-- FEATURED PRODUCTS sec starts here -->
 <section class="latest-avion">
     <div class="container">
         <div class="row">
+            <div class="text-left">
+                <h6>To supplement the above, our stock of over 100,000 items also includes Local issues, Cinderellas, Matchbox labels, Postcards,
+                     Covers, Postmarks and Privately produced issues all aimed at the thematic or topical collector.</h6>
+            </div>
             <div class="col-lg-12">
                 <div class="content-wrapper text-center">
                     <h3>AVION</h3>
