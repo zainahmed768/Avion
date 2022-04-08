@@ -2216,7 +2216,7 @@
         <h3>AVION STAMPS </h3>
         <h4>Recent Addition</h4>
     </div>
-    <div class="container">
+    <!-- <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-3">
                 <div class="cta-box-wrapper">
@@ -2267,7 +2267,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="container" style="background-color: transparent; text-align: left; padding: 22px 0;">
         <div class="about-cta">
             <h6>Stamp Dealer</h6>
@@ -2275,7 +2275,7 @@
         </div>
         <div class="about-cta">
             <h6>Stock </h6>
-            <p>10,000+ Stock items with Generous Discounts </p>
+            <p>100,000+ Stock items with Generous Discounts </p>
         </div>
         <div class="about-cta">
             <h6>Secure </h6>
@@ -2592,7 +2592,7 @@
 </section>
 <!-- FEATURED PRODUCTS sec ends here -->
 <!-- newsletter section starts here -->
-<section class="newsletter">
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-2"></div>
@@ -2624,6 +2624,6 @@
 
         </div>
     </div>
-</section>
+</section> -->
 <!-- newsletter section ends here -->
 <?php include 'inc/footer.php'; ?>
