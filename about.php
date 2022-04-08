@@ -37,7 +37,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-6">
                 <figure>
-                    <img src="img/banner-img.png" class="img-fluid" alt="">
+                    <img src="img/banner-img.webp" class="img-fluid" alt="">
                 </figure>
             </div>
         </div>

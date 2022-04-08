@@ -26,7 +26,7 @@
                 <div class="img-and-username-wrapper">
                     <div class="profile-img">
                         <figure>
-                            <img src="img/profile.png" class="img-fluid" alt="">
+                            <img src="img/profile.webp" class="img-fluid" alt="">
                             <a href="#" class="chnage">Change image</a>
                         </figure>
                         <!-- <div class="edit-img">
@@ -210,7 +210,7 @@
                                             <div class="product-deatail-wrapper my-3 active">
                                                 <div class="product-img">
                                                     <figure>
-                                                        <img src="assets/images/profile/product.png" class="img-fluid" alt="">
+                                                        <img src="assets/images/profile/product.webp" class="img-fluid" alt="">
                                                     </figure>
                                                 </div>
                                                 <div class="product-content">
@@ -224,7 +224,7 @@
                                             <div class="product-deatail-wrapper my-3">
                                                 <div class="product-img">
                                                     <figure>
-                                                        <img src="assets/images/profile/product.png" class="img-fluid" alt="">
+                                                        <img src="assets/images/profile/product.webp" class="img-fluid" alt="">
                                                     </figure>
                                                 </div>
                                                 <div class="product-content">
@@ -238,7 +238,7 @@
                                             <div class="product-deatail-wrapper my-3">
                                                 <div class="product-img">
                                                     <figure>
-                                                        <img src="assets/images/profile/product.png" class="img-fluid" alt="">
+                                                        <img src="assets/images/profile/product.webp" class="img-fluid" alt="">
                                                     </figure>
                                                 </div>
                                                 <div class="product-content">
@@ -252,7 +252,7 @@
                                             <div class="product-deatail-wrapper my-3">
                                                 <div class="product-img">
                                                     <figure>
-                                                        <img src="assets/images/profile/product.png" class="img-fluid" alt="">
+                                                        <img src="assets/images/profile/product.webp" class="img-fluid" alt="">
                                                     </figure>
                                                 </div>
                                                 <div class="product-content">
@@ -304,7 +304,7 @@
                                         </tr>
                                         <tr class="row2">
                                             <td class="wishlist-images">
-                                                <img src="img/wishlist-img1.png" class="img-fluid wishlist-img" alt="">
+                                                <img src="img/wishlist-img1.webp" class="img-fluid wishlist-img" alt="">
                                             </td>
                                             <td class="pro-name">
                                                 Sample Postal Stamp
@@ -318,7 +318,7 @@
                                         </tr>
                                         <tr class="row2">
                                             <td class="wishlist-images">
-                                                <img src="img/wishlist-img2.png" class="img-fluid wishlist-img" alt="">
+                                                <img src="img/wishlist-img2.webp" class="img-fluid wishlist-img" alt="">
                                             </td>
                                             <td class="pro-name">
                                                 Sample Postal Stamp
@@ -332,7 +332,7 @@
                                         </tr>
                                         <tr class="row2">
                                             <td class="wishlist-images">
-                                                <img src="img/wishlist-img3.png" class="img-fluid wishlist-img" alt="">
+                                                <img src="img/wishlist-img3.webp" class="img-fluid wishlist-img" alt="">
                                             </td>
                                             <td class="pro-name">
                                                 Sample Postal Stamp

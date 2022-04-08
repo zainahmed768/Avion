@@ -21,7 +21,7 @@
             <div class="col-lg-6">
                 <div class="banner-img-wrapper">
                     <figure>
-                        <img src="img/banner-img.png" class="img-fluid" alt="">
+                        <img src="img/banner-img.webp" class="img-fluid" alt="">
                     </figure>
                 </div>
             </div>
@@ -1933,7 +1933,7 @@
                         </div>
                         <a href="Item-details.php">
                             <figure>
-                                <img src="img/latest1.png" class="img-fluid" alt="">
+                                <img src="img/latest1.webp" class="img-fluid" alt="">
                             </figure>
                         </a>
                         <div class="whislist-wrapper">
@@ -1983,7 +1983,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/latest2.png" class="img-fluid" alt="">
+                            <img src="img/latest2.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2029,7 +2029,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/latest3.png" class="img-fluid" alt="">
+                            <img src="img/latest3.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2075,7 +2075,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/latest4.png" class="img-fluid" alt="">
+                            <img src="img/latest4.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2121,7 +2121,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/latest5.png" class="img-fluid" alt="">
+                            <img src="img/latest5.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2167,7 +2167,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/latest6.png" class="img-fluid" alt="">
+                            <img src="img/latest6.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2318,7 +2318,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/featured1.png" class="img-fluid" alt="">
+                            <img src="img/featured1.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2364,7 +2364,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/featured2.png" class="img-fluid" alt="">
+                            <img src="img/featured2.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2410,7 +2410,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/featured3.png" class="img-fluid" alt="">
+                            <img src="img/featured3.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2456,7 +2456,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/featured4.png" class="img-fluid" alt="">
+                            <img src="img/featured4.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2502,7 +2502,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/featured5.png" class="img-fluid" alt="">
+                            <img src="img/featured5.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -2548,7 +2548,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/featured6.png" class="img-fluid" alt="">
+                            <img src="img/featured6.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>

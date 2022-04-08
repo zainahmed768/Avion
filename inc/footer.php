@@ -4,7 +4,7 @@
             <div class="col-lg-4">
                 <div class="footer-widget-1">
                     <a href="index.php">
-                        <img src="img/logo.png" class="img-fluid" alt="">
+                        <img src="img/logo.webp" class="img-fluid" alt="">
                     </a>
                     <ul>
                         <li>Avion Thematics</li>

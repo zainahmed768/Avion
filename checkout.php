@@ -180,7 +180,7 @@
                                         </div>
                                         <div class="visa-card">
                                             <div class="img-box">
-                                                <figure><img src="img/visa.png" alt="No Image Found">
+                                                <figure><img src="img/visa.webp" alt="No Image Found">
                                                 </figure>
                                             </div>
                                             <div class="input-box">
@@ -207,7 +207,7 @@
                                         </div>
                                         <div class="visa-card">
                                             <div class="img-box">
-                                                <figure><img src="img/visa.png" alt="No Image Found">
+                                                <figure><img src="img/visa.webp" alt="No Image Found">
                                                 </figure>
                                             </div>
                                             <div class="input-box">
@@ -257,7 +257,7 @@
                             <div class="products br-right">
                                 <div class="abt-product">
                                     <div class="img-box">
-                                        <figure><img src="img/pro-detail1.png" alt="123"></figure>
+                                        <figure><img src="img/pro-detail1.webp" alt="123"></figure>
                                     </div>
                                     <div class="pro-dtl">
                                         <h5 class="name">Abkhazia 1994 <br>
@@ -274,7 +274,7 @@
                             <div class="products">
                                 <div class="abt-product">
                                     <div class="img-box">
-                                        <figure><img src="img/pro-detail2.png" alt="123"></figure>
+                                        <figure><img src="img/pro-detail2.webp" alt="123"></figure>
                                     </div>
                                     <div class="pro-dtl">
                                         <h5 class="name">Abkhazia 1994 <br>
@@ -291,7 +291,7 @@
                             <div class="products">
                                 <div class="abt-product">
                                     <div class="img-box">
-                                        <figure><img src="img/pro-detail3.png" alt="123"></figure>
+                                        <figure><img src="img/pro-detail3.webp" alt="123"></figure>
                                     </div>
                                     <div class="pro-dtl">
                                         <h5 class="name">Abkhazia 1994 <br>
@@ -308,7 +308,7 @@
                             <div class="products">
                                 <div class="abt-product">
                                     <div class="img-box">
-                                        <figure><img src="img/pro-detail1.png" alt="123"></figure>
+                                        <figure><img src="img/pro-detail1.webp" alt="123"></figure>
                                     </div>
                                     <div class="pro-dtl">
                                         <h5 class="name">Abkhazia 1994 <br>
@@ -325,7 +325,7 @@
                             <div class="products">
                                 <div class="abt-product">
                                     <div class="img-box">
-                                        <figure><img src="img/pro-detail2.png" alt="123"></figure>
+                                        <figure><img src="img/pro-detail2.webp" alt="123"></figure>
                                     </div>
                                     <div class="pro-dtl">
                                         <h5 class="name">Abkhazia 1994 <br>
@@ -342,7 +342,7 @@
                             <div class="products">
                                 <div class="abt-product">
                                     <div class="img-box">
-                                        <figure><img src="img/pro-detail3.png" alt="123"></figure>
+                                        <figure><img src="img/pro-detail3.webp" alt="123"></figure>
                                     </div>
                                     <div class="pro-dtl">
                                         <h5 class="name">Abkhazia 1994 <br>

@@ -24,7 +24,7 @@
         <div class="row con">
             <div class="col-lg-6 align-self-center">
                 <figure>
-                    <img src="img/contact-us.png" class="img-fluid" alt="">
+                    <img src="img/contact-us.webp" class="img-fluid" alt="">
                 </figure>
             </div>
             <div class="col-lg-6">

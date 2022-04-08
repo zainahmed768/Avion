@@ -7,7 +7,7 @@
                     <div class="col-4 col-lg-3">
                         <div class="logo-wrapper">
                             <a href="index.php">
-                                <img src="img/logo.png" class="img-fluid" alt="">
+                                <img src="img/logo.webp" class="img-fluid" alt="">
                             </a>
                         </div>
                     </div>

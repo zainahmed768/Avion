@@ -31,7 +31,7 @@
                             <div class="single-cart-wrapper mb-4">
                                 <div class="single-cart-img-wrapper">
                                     <figure>
-                                        <img src="img/add-to-cart.png" class="img-fluid" alt="">
+                                        <img src="img/add-to-cart.webp" class="img-fluid" alt="">
                                     </figure>
                                 </div>
                                 <div class="single-cart-content-wrapper">
@@ -51,7 +51,7 @@
                                 <div class="single-cart-img-wrapper">
                                     <figure>
                                         <a href="#">
-                                            <img src="img/add-to-cart2.png" class="img-fluid" alt="">
+                                            <img src="img/add-to-cart2.webp" class="img-fluid" alt="">
                                         </a>
                                     </figure>
                                 </div>

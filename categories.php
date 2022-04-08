@@ -45,7 +45,7 @@
                         </div>
                         <div class="paypal-wrapper">
                             <figure>
-                                <img src="img/paypal.png" class="img-fluid" alt="">
+                                <img src="img/paypal.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                             <div class="product-cards-wrapper">
                                 <div class="products-img-wrapper">
                                     <figure>
-                                        <img src="img/cate1.png" class="img-fluid" alt="">
+                                        <img src="img/cate1.webp" class="img-fluid" alt="">
                                     </figure>
                                     <span class="discount">11%</span>
                                 </div>
@@ -118,7 +118,7 @@
                             <div class="product-cards-wrapper">
                                 <div class="products-img-wrapper">
                                     <figure>
-                                        <img src="img/cate2.png" class="img-fluid" alt="">
+                                        <img src="img/cate2.webp" class="img-fluid" alt="">
                                     </figure>
                                     <span class="discount">11%</span>
                                 </div>
@@ -141,7 +141,7 @@
                             <div class="product-cards-wrapper">
                                 <div class="products-img-wrapper">
                                     <figure>
-                                        <img src="img/cate3.png" class="img-fluid" alt="">
+                                        <img src="img/cate3.webp" class="img-fluid" alt="">
                                     </figure>
                                     <span class="discount">11%</span>
                                 </div>
@@ -164,7 +164,7 @@
                             <div class="product-cards-wrapper">
                                 <div class="products-img-wrapper">
                                     <figure>
-                                        <img src="img/cate4.png" class="img-fluid" alt="">
+                                        <img src="img/cate4.webp" class="img-fluid" alt="">
                                     </figure>
                                     <span class="discount">11%</span>
                                 </div>
