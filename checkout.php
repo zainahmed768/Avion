@@ -21,7 +21,7 @@
 <!-- Checkout Start Here -->
 <section class="checkout">
     <div class="container">
-        <form action="thank-you.php">
+        <form action="Thank-you.php">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="first-top-bar">

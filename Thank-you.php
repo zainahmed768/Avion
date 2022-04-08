@@ -46,7 +46,7 @@
                             </li>
                             <li class="address"><span class="property">Address:</span><span class="value">10515 Fox Ave
                                     Fairdale, Kentucky(KY), 40118</span></li>
-                            <li class="phone"><span class="property">Phone:</span><span class="value">+44-123-456-789</span>
+                            <li class="phone">< span class="property">Phone:</span><span class="value">+44-123-456-789</span>
                             </li>
                             <li class="state"><span class="property">State:</span><span class="value">Texas</span></li>
                         </ul>
