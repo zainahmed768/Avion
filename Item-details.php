@@ -27,7 +27,7 @@
             <div class="col-md-5">
                 <div class="product-detail-img-wrapper">
                     <figure>
-                        <img src="img/pro-detail.png" class="img-fluid" alt="">
+                        <img src="img/pro-detail.webp" class="img-fluid" alt="">
                     </figure>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                     <div class="row">
                         <div class="col-lg-1">
                             <div class="review-img-wrapper">
-                                <img src="img/review-img.png" class="img-fluid" alt="">
+                                <img src="img/review-img.webp" class="img-fluid" alt="">
                             </div>
                         </div>
                         <div class="col-lg-11">
@@ -101,7 +101,7 @@
                     <div class="row">
                         <div class="col-lg-1">
                             <div class="review-img-wrapper">
-                                <img src="img/review-img2.png" class="img-fluid" alt="">
+                                <img src="img/review-img2.webp" class="img-fluid" alt="">
                             </div>
                         </div>
                         <div class="col-lg-11">
@@ -134,7 +134,7 @@
                     <div class="row">
                         <div class="col-lg-1">
                             <div class="review-img-wrapper">
-                                <img src="img/review-img3.png" class="img-fluid" alt="">
+                                <img src="img/review-img3.webp" class="img-fluid" alt="">
                             </div>
                         </div>
                         <div class="col-lg-11">
@@ -247,7 +247,7 @@
                         </div>
                         <a href="#">
                             <figure>
-                                <img src="img/fill1.png" class="img-fluid" alt="">
+                                <img src="img/fill1.webp" class="img-fluid" alt="">
                             </figure>
                         </a>
                         <div class="whislist-wrapper">
@@ -297,7 +297,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/fill2.png" class="img-fluid" alt="">
+                            <img src="img/fill2.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
@@ -343,7 +343,7 @@
                             <span>11%</span>
                         </div>
                         <figure>
-                            <img src="img/fill3.png" class="img-fluid" alt="">
+                            <img src="img/fill3.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="whislist-wrapper">
                             <i class="fa fa-heart-o"></i>
