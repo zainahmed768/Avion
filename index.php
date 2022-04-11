@@ -46,8 +46,8 @@
                             <p>A generous discount scheme to help collectors at every level</p>
                         </div>
                     </div>
-                    <h3>EXPLORE</h3>
-                    <h2>LATEST ADDITION</h2>
+                    <!-- <h3>EXPLORE</h3>
+                    <h2>LATEST ADDITION</h2> -->
                 </div>
                 <div class="tabs-wrapper mt-5">
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -2212,10 +2212,10 @@
 <!-- latest avion sec ends here -->
 <!-- CTA section starts here -->
 <section class="cta-sec">
-    <div class="latest-avion  text-center">
+    <!-- <div class="latest-avion  text-center">
         <h3>AVION STAMPS </h3>
         <h4>Recent Addition</h4>
-    </div>
+    </div> -->
     <!-- <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-3">
