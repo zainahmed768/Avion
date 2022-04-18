@@ -32,7 +32,8 @@ div#accordion a.card-link {
   padding: 20px;
   font-family: "Montserrat";
   font-size: 14px;
-  color: #afafaf;
+  color: #000000;
+  font-weight: 600;
 }
 a.card-link[aria-expanded="true"] .fa-angle-down::before {
   content: "\f068";

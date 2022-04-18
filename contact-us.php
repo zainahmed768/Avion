@@ -31,7 +31,7 @@
                 <div class="contact-form-wrapper">
                     <div class="contact-form-heading-wrapper">
                         <h2>CONTACT US FORM </h2>
-                        <p>Your email address will not be published.required fields are marked </p>
+                        <p>Your email address will not be published. Please fill in all fields</p>
                     </div>
                     <form action="">
                         <div class="form-group row">

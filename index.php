@@ -32,7 +32,6 @@
 <!-- explore section starts here -->
 <section class="explore">
     <div class="container">
-
         <div class="row">
             <div class="col-lg-12">
                 <div class="content-wrapper text-center">
@@ -49,6 +48,732 @@
                     <!-- <h3>EXPLORE</h3>
                     <h2>LATEST ADDITION</h2> -->
                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- explore section ends here -->
+<!-- latest avion sec starts here -->
+<section class="latest-avion">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="content-wrapper text-center">
+                    <h3>Avion Stamps</h3>
+                    <h2>LATEST ADDITIONS</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <a href="Item-details.php">
+                            <figure>
+                                <img src="img/latest1.webp" class="img-fluid" alt="">
+                            </figure>
+                        </a>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <a href="#">
+                            <h4>Apple 10.9-inch iPad Air Wi-Fi
+                                Cellular 64GB</h4>
+                        </a>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="Item-details.php">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/latest2.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/latest3.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/latest4.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/latest5.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/latest6.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- latest avion sec ends here -->
+<!-- CTA section starts here -->
+<section class="cta-sec">
+    <!-- <div class="latest-avion  text-center">
+        <h3>AVION STAMPS </h3>
+        <h4>Recent Addition</h4>
+    </div> -->
+    <!-- <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-3">
+                <div class="cta-box-wrapper">
+                    <figure>
+                        <img src="img/stamp.svg" class="img-fluid" alt="">
+                    </figure>
+                    <div class="cta-box-wrapper">
+                        <h5>Stamp Dealer</h5>
+                        <p>LARGEST THEMATIC STAMP
+                            DEALER IN EUROPE</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="cta-box-wrapper">
+                    <figure>
+                        <img src="img/Stock.svg" class="img-fluid" alt="">
+                    </figure>
+                    <div class="cta-box-wrapper">
+                        <h5>Stock</h5>
+                        <p>100,000+ STOCK ITEMS WITH
+                            GENEROUS DISCOUNTS</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="cta-box-wrapper">
+                    <figure>
+                        <img src="img/stamp.svg" class="img-fluid" alt="">
+                    </figure>
+                    <div class="cta-box-wrapper">
+                        <h5>Stamp Dealer</h5>
+                        <p>LARGEST THEMATIC STAMP
+                            DEALER IN EUROPE</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="cta-box-wrapper">
+                    <figure>
+                        <img src="img/Philately.svg" class="img-fluid" alt="">
+                    </figure>
+                    <div class="cta-box-wrapper">
+                        <h5>Philately</h5>
+                        <p>OVER 70 YEARS EXPERIENCE
+                            IN PHILATELY</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <div class="container" style="background-color: transparent; text-align: left; padding: 22px 0;">
+
+        <div class="about-cta">
+            <h6>Stock </h6>
+            <p>100,000+ Stock items with Generous Discounts </p>
+        </div>
+        <div class="about-cta">
+            <h6>Secure </h6>
+            <p>100% Safe & Secure Shopping Experience </p>
+        </div>
+        <div class="about-cta">
+            <h6>Stamp Dealer</h6>
+            <p>Largest Thematic Stamp Dealer in Europe </p>
+        </div>
+        <div class="about-cta">
+            <h6>Philately </h6>
+            <p>Over 70 Years’ Experience in Philately </p>
+        </div>
+        <div class="about-cta">
+            <p>Whether you are a complete novice looking for advice on how to start or a serious veteran
+                collector hoping to improve upon your gold medal exhibit, we would be happy to offer you our
+                free advice gained from a lifetime in philately. We have extensive knowledge of specialised items such as Proofs,
+                Missing colours, Specimens, Major errors and right across to the other side of the philatelic spectrum, with Fakes,
+                Forgeries and Fantasies.</p>
+        </div>
+    </div>
+</section>
+<!-- CTA section ends here -->
+<!-- FEATURED PRODUCTS sec starts here -->
+<section class="latest-avion">
+    <div class="container">
+        <div class="row">
+            <div class="text-left">
+                <h6>To supplement the above, our stock of over 100,000 items also includes Local issues, Cinderellas, Matchbox labels, Postcards,
+                    Covers, Postmarks and Privately produced issues all aimed at the thematic or topical collector.</h6>
+            </div>
+            <div class="col-lg-12">
+                <div class="content-wrapper text-center">
+                    <h3>Avion Stamps</h3>
+                    <h2>Featured Products & Special Offers</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/featured1.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/featured2.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/featured3.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/featured4.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/featured5.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-card-wrapper">
+                    <div class="product-img-wrapper text-center">
+                        <div class="discount-wrapper">
+                            <span>11%</span>
+                        </div>
+                        <figure>
+                            <img src="img/featured6.webp" class="img-fluid" alt="">
+                        </figure>
+                        <div class="whislist-wrapper">
+                            <i class="fa fa-heart-o"></i>
+                        </div>
+                    </div>
+                    <div class="pro-content-wrapper">
+                        <h4>Apple 10.9-inch iPad Air Wi-Fi
+                            Cellular 64GB</h4>
+                        <div class="rating-wrapper">
+                            <ul>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><span class="total-rating">4</span></li>
+                            </ul>
+                        </div>
+                        <div class="number">
+                            <span class="plus">+</span>
+                            <input type="text" value="01">
+                            <span class="minus">-</span>
+                        </div>
+                        <div class="price-and-add-to-cart-wrapper">
+                            <div class="price-wrapper">
+                                <strike>£699.99</strike>
+                                <h4 class="price">£629.99</h4>
+                                <p class="delievry-time">2-day delivery</p>
+                            </div>
+                            <div class="cart-icon">
+                                <a href="#">
+                                    <img src="img/shopping-cart.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- FEATURED PRODUCTS sec ends here -->
+<!-- newsletter section starts here -->
+<!-- <section class="newsletter">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <div class="content-wrapper text-center">
+                    <h4>OUR SUBSCRIBE</h4>
+                    <h2>Subscribe To Get The Latest
+                        News About Us</h2>
+                    <p>We recommend you to subscribe to our newspaper,drop your
+                        email below to get daily,update about us</p>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+            .
+        </div>
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <div class="single">
+                    <div class="input-group">
+                        <input type="email" class="form-control" placeholder="Enter your email address">
+                        <span class="input-group-btn">
+                            <button class="btn btn-theme" type="submit">Subscribe</button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+
+        </div>
+    </div>
+</section> -->
+<!-- newsletter section ends here -->
+<!-- explore section starts here -->
+<section class="explore pt-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
                 <div class="tabs-wrapper mt-5">
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item">
@@ -1911,719 +2636,4 @@
     </div>
 </section>
 <!-- explore section ends here -->
-<!-- latest avion sec starts here -->
-<section class="latest-avion">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="content-wrapper text-center">
-                    <h3>AVION</h3>
-                    <h2>LATEST ADDITION</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <a href="Item-details.php">
-                            <figure>
-                                <img src="img/latest1.webp" class="img-fluid" alt="">
-                            </figure>
-                        </a>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <a href="#">
-                            <h4>Apple 10.9-inch iPad Air Wi-Fi
-                                Cellular 64GB</h4>
-                        </a>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="Item-details.php">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/latest2.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/latest3.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/latest4.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/latest5.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/latest6.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- latest avion sec ends here -->
-<!-- CTA section starts here -->
-<section class="cta-sec">
-    <!-- <div class="latest-avion  text-center">
-        <h3>AVION STAMPS </h3>
-        <h4>Recent Addition</h4>
-    </div> -->
-    <!-- <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-3">
-                <div class="cta-box-wrapper">
-                    <figure>
-                        <img src="img/stamp.svg" class="img-fluid" alt="">
-                    </figure>
-                    <div class="cta-box-wrapper">
-                        <h5>Stamp Dealer</h5>
-                        <p>LARGEST THEMATIC STAMP
-                            DEALER IN EUROPE</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="cta-box-wrapper">
-                    <figure>
-                        <img src="img/Stock.svg" class="img-fluid" alt="">
-                    </figure>
-                    <div class="cta-box-wrapper">
-                        <h5>Stock</h5>
-                        <p>100,000+ STOCK ITEMS WITH
-                            GENEROUS DISCOUNTS</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="cta-box-wrapper">
-                    <figure>
-                        <img src="img/stamp.svg" class="img-fluid" alt="">
-                    </figure>
-                    <div class="cta-box-wrapper">
-                        <h5>Stamp Dealer</h5>
-                        <p>LARGEST THEMATIC STAMP
-                            DEALER IN EUROPE</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="cta-box-wrapper">
-                    <figure>
-                        <img src="img/Philately.svg" class="img-fluid" alt="">
-                    </figure>
-                    <div class="cta-box-wrapper">
-                        <h5>Philately</h5>
-                        <p>OVER 70 YEARS EXPERIENCE
-                            IN PHILATELY</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <div class="container" style="background-color: transparent; text-align: left; padding: 22px 0;">
-        <div class="about-cta">
-            <h6>Stamp Dealer</h6>
-            <p>Largest Thematic Stamp Dealer in Europe </p>
-        </div>
-        <div class="about-cta">
-            <h6>Stock </h6>
-            <p>100,000+ Stock items with Generous Discounts </p>
-        </div>
-        <div class="about-cta">
-            <h6>Secure </h6>
-            <p>100% Safe & Secure Shopping Experience </p>
-        </div>
-        <div class="about-cta">
-            <h6>Philately </h6>
-            <p>Over 70 Years’ Experience in Philately </p>
-        </div>
-        <div class="about-cta">
-            <p>Whether you are a complete novice looking for advice on how to start or a serious veteran
-                collector hoping to improve upon your gold medal exhibit, we would be happy to offer you our
-                free advice gained from a lifetime in philately. We have extensive knowledge of specialised items such as Proofs,
-                Missing colours, Specimens, Major errors and right across to the other side of the philatelic spectrum, with Fakes,
-                Forgeries and Fantasies.</p>
-        </div>
-    </div>
-</section>
-<!-- CTA section ends here -->
-<!-- FEATURED PRODUCTS sec starts here -->
-<section class="latest-avion">
-    <div class="container">
-        <div class="row">
-            <div class="text-left">
-                <h6>To supplement the above, our stock of over 100,000 items also includes Local issues, Cinderellas, Matchbox labels, Postcards,
-                     Covers, Postmarks and Privately produced issues all aimed at the thematic or topical collector.</h6>
-            </div>
-            <div class="col-lg-12">
-                <div class="content-wrapper text-center">
-                    <h3>AVION</h3>
-                    <h2>FEATURED PRODUCTS</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/featured1.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/featured2.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/featured3.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/featured4.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/featured5.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="product-card-wrapper">
-                    <div class="product-img-wrapper text-center">
-                        <div class="discount-wrapper">
-                            <span>11%</span>
-                        </div>
-                        <figure>
-                            <img src="img/featured6.webp" class="img-fluid" alt="">
-                        </figure>
-                        <div class="whislist-wrapper">
-                            <i class="fa fa-heart-o"></i>
-                        </div>
-                    </div>
-                    <div class="pro-content-wrapper">
-                        <h4>Apple 10.9-inch iPad Air Wi-Fi
-                            Cellular 64GB</h4>
-                        <div class="rating-wrapper">
-                            <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><span class="total-rating">4</span></li>
-                            </ul>
-                        </div>
-                        <div class="number">
-                            <span class="plus">+</span>
-                            <input type="text" value="01">
-                            <span class="minus">-</span>
-                        </div>
-                        <div class="price-and-add-to-cart-wrapper">
-                            <div class="price-wrapper">
-                                <strike>£699.99</strike>
-                                <h4 class="price">£629.99</h4>
-                                <p class="delievry-time">2-day delivery</p>
-                            </div>
-                            <div class="cart-icon">
-                                <a href="#">
-                                    <img src="img/shopping-cart.svg" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- FEATURED PRODUCTS sec ends here -->
-<!-- newsletter section starts here -->
-<!-- <section class="newsletter">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-2"></div>
-            <div class="col-lg-8">
-                <div class="content-wrapper text-center">
-                    <h4>OUR SUBSCRIBE</h4>
-                    <h2>Subscribe To Get The Latest
-                        News About Us</h2>
-                    <p>We recommend you to subscribe to our newspaper,drop your
-                        email below to get daily,update about us</p>
-                </div>
-            </div>
-            <div class="col-lg-2"></div>
-            .
-        </div>
-        <div class="row">
-            <div class="col-lg-2"></div>
-            <div class="col-lg-8">
-                <div class="single">
-                    <div class="input-group">
-                        <input type="email" class="form-control" placeholder="Enter your email address">
-                        <span class="input-group-btn">
-                            <button class="btn btn-theme" type="submit">Subscribe</button>
-                        </span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-2"></div>
-
-        </div>
-    </div>
-</section> -->
-<!-- newsletter section ends here -->
 <?php include 'inc/footer.php'; ?>
